@@ -1,0 +1,3 @@
+[submodule "ffmpeg_sub_to_audio"]
+	path = ffmpeg_sub_to_audio
+	url = https://github.com/ykutaykuta/ffmpeg_sub_to_audio.git
